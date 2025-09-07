@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/announcements",
-      "schedule": "0 6 * * *"  // Every day at 6 AM UTC (adjust as needed)
+      "schedule": "0 6 * * *"
     }
   ]
 }
